@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Spiral order matrix of order n\Spiral order matrix of order n\bin\Debug\Spiral order matrix of order n.exe.config
+C:\Users\DELL\source\repos\Spiral order matrix of order n\Spiral order matrix of order n\bin\Debug\Spiral order matrix of order n.exe
+C:\Users\DELL\source\repos\Spiral order matrix of order n\Spiral order matrix of order n\bin\Debug\Spiral order matrix of order n.pdb
+C:\Users\DELL\source\repos\Spiral order matrix of order n\Spiral order matrix of order n\obj\Debug\Spiral order matrix of order n.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Spiral order matrix of order n\Spiral order matrix of order n\obj\Debug\Spiral order matrix of order n.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Spiral order matrix of order n\Spiral order matrix of order n\obj\Debug\Spiral order matrix of order n.exe
+C:\Users\DELL\source\repos\Spiral order matrix of order n\Spiral order matrix of order n\obj\Debug\Spiral order matrix of order n.pdb
